@@ -1,0 +1,6 @@
+import gin.torch.external_configurables
+
+NeuralNetwork.num_classes = 10
+NeuralNetwork.units1 = 512
+NeuralNetwork.units2 = 512
+Training.batch_size = 64
