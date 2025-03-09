@@ -1,0 +1,4 @@
+# Training config
+train.learning_rate = 0.001
+train.epochs = 5
+train.batch_size = 64

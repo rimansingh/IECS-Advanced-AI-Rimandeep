@@ -1,0 +1,15 @@
+# configs/model_config.gin
+
+CNNModel.hidden_units = 256
+CNNModel.dropout_rate = 0.5
+CNNModel.num_classes = 10
+
+DeeperCNN.dropout_rate = 0.4
+DeeperCNN.num_classes = 10
+
+
+# Choose model
+# MODEL = @CNNModel()
+
+# or switch to:
+MODEL = @DeeperCNN()

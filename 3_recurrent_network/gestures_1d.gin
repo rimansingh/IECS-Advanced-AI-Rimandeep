@@ -1,0 +1,7 @@
+ConvLSTMModel.input_size = 3
+ConvLSTMModel.hidden_size = 64
+ConvLSTMModel.num_layers = 2
+ConvLSTMModel.dropout = 0.4
+ConvLSTMModel.num_classes = 20
+ConvLSTMModel.conv_filters = 32
+ConvLSTMModel.kernel_size = 3

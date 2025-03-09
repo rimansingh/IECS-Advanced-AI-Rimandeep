@@ -1,0 +1,7 @@
+# Parameters for LSTMModel:
+# ==============================================================================
+LSTMModel.dropout = 0.5
+LSTMModel.hidden_size = 64
+LSTMModel.input_size = 3
+LSTMModel.num_classes = 20
+LSTMModel.num_layers = 2

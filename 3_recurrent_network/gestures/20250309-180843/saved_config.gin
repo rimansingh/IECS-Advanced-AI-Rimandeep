@@ -1,0 +1,9 @@
+# Parameters for ConvLSTMModel:
+# ==============================================================================
+ConvLSTMModel.conv_filters = 32
+ConvLSTMModel.dropout = 0.4
+ConvLSTMModel.hidden_size = 64
+ConvLSTMModel.input_size = 3
+ConvLSTMModel.kernel_size = 3
+ConvLSTMModel.num_classes = 20
+ConvLSTMModel.num_layers = 2

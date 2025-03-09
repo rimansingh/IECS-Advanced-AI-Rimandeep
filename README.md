@@ -41,7 +41,6 @@ To run the notebooks locally:
 
 
 ### **1-PyTorch-Intro**
-
 #### Summary of Exercises
 
     ##### 1. 3D Tensor Dataset
@@ -57,9 +56,12 @@ To run the notebooks locally:
     - Included imports for model training and configuration using `gin`.
     - Demonstrated the setup for training a model, including logging and validation accuracy outputs.
 
+---
+
 ### **2_convolutions**
-- Explains the concept of convolutional neural networks (CNNs).
-- Demonstrates how CNNs process image data.
+#### Summary of Exercises
+
+    ##### 1: Adding Dropout and Normalization Layers in PyTorch
 
 ### **3_recurrent_networks**
 - Introduction to sequential models like RNNs, LSTMs, and GRUs.

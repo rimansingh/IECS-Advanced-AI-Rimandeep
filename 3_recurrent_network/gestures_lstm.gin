@@ -1,0 +1,6 @@
+
+LSTMModel.input_size = 3
+LSTMModel.hidden_size = 64
+LSTMModel.num_layers = 2
+LSTMModel.dropout = 0.5
+LSTMModel.num_classes = 20

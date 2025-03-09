@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rimansingh/University/sem-3/Adv-AI/IECS-Advanced-AI-Rimandeep/2_convolutions/task-3/mlruns/0/25170a33c3614210b9818c69b830d22d/artifacts
+end_time: 1741450408227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25170a33c3614210b9818c69b830d22d
+run_name: useful-boar-406
+run_uuid: 25170a33c3614210b9818c69b830d22d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741449848041
+status: 3
+tags: []
+user_id: rimansingh
