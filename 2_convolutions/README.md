@@ -16,6 +16,6 @@ This command will detect the Makefile and load the model.
 
 ### Changing the Model
 
-You can change the model in 'main.py' by commenting out one model and uncommenting another. Please note that you cannot run both models at the same time.
+You can change the model in 'main.py' by commenting out one model and uncommenting another.
 
 
