@@ -36,6 +36,10 @@ To run the notebooks locally:
    ```
 3. Open the notebook you want to work on and execute the cells.
 
+
+### **Important Note**
+Make sure you have the `mltrainer` library version `0.1.128` installed, as any other version did not work on my machine.
+
 ---
 
 Happy coding! 😊
